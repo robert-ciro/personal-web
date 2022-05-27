@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: "Md Solaiaman | Software Developer",
-  author: "Md Solaiman",
-  author_image: "/author.png",
+  title: "Robert Alexander | Software Developer",
+  author: "Robert Alexander",
+  author_image: "/profile-photo.png",
   position: "Full Stack Developer",
   location: "Dhaka, Bangladesh",
   headerTitle: "Md Rathik",
@@ -12,8 +12,8 @@ const siteMetadata = {
   theme: "system", // system, dark or light
   siteUrl: "https://rathik.dev",
   siteRepo: "#",
-  siteLogo: "../assets/author.png",
-  image: "~/assets/author.png",
+  siteLogo: "../assets/profile-photo.png",
+  image: "~/assets/profile-photo.png",
   socialBanner: "/static/images/twitter-card.png",
   email: "hello@rathik.dev",
   github: "https://github.com/mdrathik",

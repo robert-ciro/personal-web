@@ -15,20 +15,14 @@
         <li class="flex items-center">
           <Css class="h-10 w-10 rounded-sm drop-shadow-sm"></Css>
         </li> -->
-        <li class="flex items-center">
-          <Bootstrap class="h-10 w-10"></Bootstrap>
+         <li class="flex items-center">
+          <React class="h-10 w-10"></React>
         </li>
         <li class="flex items-center">
-          <TailwindCss class="h-10 w-10"></TailwindCss>
+          <Scss class="h-10 w-10"></Scss>
         </li>
         <li class="flex items-center">
-          <Javascript class="h-10 w-10"></Javascript>
-        </li>
-        <li class="flex items-center">
-          <Vuejs class="h-10 w-10"></Vuejs>
-        </li>
-        <li class="flex items-center">
-          <Nuxt class="h-10 w-10"></Nuxt>
+          <Angular class="h-10 w-10"></Angular>
         </li>
       </ul>
     </div>
@@ -40,10 +34,25 @@
       </h2>
       <ul class="mb-6 flex flex-wrap gap-4">
         <li class="flex items-center">
-          <Laravel class="h-10 w-10"></Laravel>
+          <Aspnet class="h-10 w-100"></Aspnet>
         </li>
         <li class="flex items-center">
-          <Node class="h-10 w-10"></Node>
+          <AzureFunctions class="h-10 w-10"></AzureFunctions>
+        </li>
+      </ul>
+    </div>
+    <div class="mt-4">
+      <h2
+        class="mb-2 text-xl text-gray-700 font-bold dark:text-blue-200 capitalize"
+      >
+        Languages
+      </h2>
+      <ul class="mb-6 flex flex-wrap gap-4">
+        <li class="flex items-center">
+          <Csharp class="h-10 w-10"></Csharp>
+        </li>
+        <li class="flex items-center">
+          <Typescript class="h-10 w-10"></Typescript>
         </li>
       </ul>
     </div>
@@ -60,6 +69,14 @@ import Nuxt from "../assets/devicon/nuxt.svg?inline";
 import Bootstrap from "../assets/devicon/bootstrap.svg?inline";
 import Laravel from "../assets/devicon/laravel.svg?inline";
 import Node from "../assets/devicon/node.svg?inline";
+import Csharp from "../assets/devicon/csharp.svg?inline";
+import React from "../assets/devicon/react.svg?inline";
+import Typescript from "../assets/devicon/typescript.svg?inline";
+import Scss from "../assets/devicon/scss.svg?inline";
+import Angular from "../assets/devicon/angular.svg?inline";
+import AzureFunctions from "../assets/devicon/azure-functions.svg?inline";
+import Aspnet from "../assets/devicon/aspnet.svg?inline";
+
 export default {
   components: {
     Javascript,
@@ -71,6 +88,13 @@ export default {
     Nuxt,
     Laravel,
     Node,
+    Csharp,
+    React,
+    Typescript,
+    Scss,
+    Angular,
+    AzureFunctions,
+    Aspnet
   },
 };
 </script>
