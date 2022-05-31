@@ -15,7 +15,7 @@
         <li class="flex items-center">
           <Css class="h-10 w-10 rounded-sm drop-shadow-sm"></Css>
         </li> -->
-         <li class="flex items-center">
+         <li class="flex items-center" title="React">
           <React class="h-10 w-10"></React>
         </li>
         <li class="flex items-center">

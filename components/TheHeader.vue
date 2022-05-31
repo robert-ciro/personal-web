@@ -16,8 +16,7 @@
           <NuxtLink
             :to="item.path"
             class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker font-bold text-lg md:text-2xl"
-            >{{ item.name }}</NuxtLink
-          >
+            >{{ item.name }}</NuxtLink>
         </li>
       </ul>
     </div>
