@@ -7,7 +7,7 @@
         >
           <img
             class="w-3 h-3 text-blue-600 dark:text-blue-400"
-            src="~assets/icon/academy.svg"
+            src="~assets/icon/folder.svg"
           />
         </span>
         <h3
@@ -24,8 +24,6 @@
           >2022-Currently</time
         >
         <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-          Get access to over 20+ pages including a dashboard layout, charts,
-          kanban board, calendar, and pre-order E-commerce & Marketing pages.
         </p>
       </li>
       <li class="mb-10 ml-6">
