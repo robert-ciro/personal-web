@@ -1,5 +1,5 @@
 const siteMetaInfo = {
-  title: "Robert Alexander | Software Engineer",
+  title: "Robert Alexander Parra Ciro | Software Engineer",
   author: "Robert Alexander",
   author_image: "/profile-photo.png",
   position: "Full Stack Developer",
@@ -10,7 +10,7 @@ const siteMetaInfo = {
     "A tech enthusiast & self taught learner. Love to talk the way of tech.",
   language: "en-us",
   theme: "system", // system, dark or light
-  siteUrl: "https://rathik.dev",
+  siteUrl: "im-robert.netlify.app",
   siteRepo: "#",
   siteLogo: "../assets/profile-photo.png",
   image: "~/assets/profile-photo.png",
